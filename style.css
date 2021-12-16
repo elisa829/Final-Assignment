@@ -317,6 +317,12 @@ footer p {
     margin-right: 10px;
 }
 
+.fas {
+    color: #f8f8ff;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
 p {
     text-align: center;
 }
