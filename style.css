@@ -247,6 +247,16 @@ h3 {
     font-size: 18pt;
 }
 
+.fas fa-shopping-cart {
+    font-size: 16pt;
+    color: #f8f8ff;
+}
+
+.asterisk {
+    width: 5pt;
+    padding-left: 1px;
+}
+
 /* box models */
 
 .logo {
@@ -310,11 +320,6 @@ footer p {
     color: #f8f8ff;
     font-size: 20px;
     margin-right: 10px;
-}
-
-.fas {
-    font-size: 16pt;
-    color: #f8f8ff;
 }
 
 p {
