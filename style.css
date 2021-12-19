@@ -5,6 +5,8 @@ body {
     font-weight: 400;
     color: #272b2e;
     background-image: linear-gradient(-45deg, #fef8e8, #f2be76, #fef8e8, #fef8e8, #f2be76);
+    padding: 0px;
+    margin: 0px;
 }
 
 .splashtitle {
@@ -564,6 +566,7 @@ input {
     clear: both;
     text-align: left;
     color: #f2be76;
+    margin-left: 25px;
 }
 
 .abouttitle {
@@ -575,6 +578,7 @@ input {
 .aboutp {
     font-size: 18pt;
     text-align: left;
+    margin-right: 25px;
 }
 
 .chat h1 {
@@ -723,7 +727,13 @@ footer {
     position: relative;
     left: 0;
 }
+.abouttitle {
+    margin-left: 25PX;
+}
 
+.aboutfloatleft {
+  margin-left: 25px;
+}
 #pinatas {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
